@@ -26,10 +26,10 @@
 
 | 平台     | 网址                                                         | 说明                                                         | 截图                                                         |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Kimi     | ![kimiqcode](.\images\kimiqcode.png)<br />https://kimi.moonshot.cn/ | 国内用户可以通过此链接访问Kimi平台。注册账号后，可以开始与AI进行对话。 | <img src="./images/Kimi.png" alt="Kimi" style="zoom:25%;" /> |
-| 豆包     | ![doubaoqcode](.\images\doubaoqcode.png)<br />https://www.doubao.com/chat/ | 抖音推出的AI聊天工具。通过抖音账号登录后，即可使用。         | <img src="./images/doubao.png" alt="doubao" style="zoom:25%;" /> |
-| 文心一言 | ![yiyanqcode](.\images\yiyanqcode.png)<br />https://yiyan.baidu.com/ | 百度推出的AI平台，提供多种AI功能。登录百度账号后，可以使用预设的AI应用。 | <img src="./images/yiyan.png" alt="yiyan" style="zoom:25%;" /> |
-| 通义千问 | ![qianwenqcode](.\images\qianwenqcode.png)<br />https://qianwen.aliyun.com/ | 阿里云提供的AI工具，支持丰富的AI应用。注册并登录后，可以使用其AI服务。 | <img src="./images/qianwen.png" alt="qianwen" style="zoom:25%;" /> |
+| Kimi     | ![kimiqcode](./images/kimiqcode.png)<br />https://kimi.moonshot.cn/ | 国内用户可以通过此链接访问Kimi平台。注册账号后，可以开始与AI进行对话。 | <img src="./images/Kimi.png" alt="Kimi" style="zoom:25%;" /> |
+| 豆包     | ![doubaoqcode](./images/doubaoqcode.png)<br />https://www.doubao.com/chat/ | 抖音推出的AI聊天工具。通过抖音账号登录后，即可使用。         | <img src="./images/doubao.png" alt="doubao" style="zoom:25%;" /> |
+| 文心一言 | ![yiyanqcode](./images/yiyanqcode.png)<br />https://yiyan.baidu.com/ | 百度推出的AI平台，提供多种AI功能。登录百度账号后，可以使用预设的AI应用。 | <img src="./images/yiyan.png" alt="yiyan" style="zoom:25%;" /> |
+| 通义千问 | ![qianwenqcode](./images/qianwenqcode.png)<br />https://qianwen.aliyun.com/ | 阿里云提供的AI工具，支持丰富的AI应用。注册并登录后，可以使用其AI服务。 | <img src="./images/qianwen.png" alt="qianwen" style="zoom:25%;" /> |
 
 ### 【2-2】 国外访问
 
@@ -37,9 +37,9 @@
 
 | 平台       | 网址                                                         | 说明                                                        | 截图                                                         |
 | ---------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ChatGPT    | ![chatgptqcode](.\images\chatgptqcode.png)<br />https://chatgpt.com/ | OpenAI提供的聊天工具。访问链接，注册账号后即可使用。        | <img src="./images/ChatGPT.png" alt="ChatGPT" style="zoom:25%;" /> |
-| MS Copilot | ![newbingqcode](.\images\newbingqcode.png)<br />https://www.bing.com/chat | New Bing，微软使用 OpenAI 提供的联网 AI，使用微软账号登陆。 | <img src="./images/Newbing.png" alt="NewBing" style="zoom:25%;" /> |
-| Gemini     | ![geminiqcode](.\images\geminiqcode.png)<br />https://gemini.google.com/ | Google提供的AI工具。通过Google账号登录后，即可使用。        | <img src="./images/Gemini.png" alt="Gemini" style="zoom:25%;" /> |
+| ChatGPT    | ![chatgptqcode](./images/chatgptqcode.png)<br />https://chatgpt.com/ | OpenAI提供的聊天工具。访问链接，注册账号后即可使用。        | <img src="./images/ChatGPT.png" alt="ChatGPT" style="zoom:25%;" /> |
+| MS Copilot | ![newbingqcode](./images/newbingqcode.png)<br />https://www.bing.com/chat | New Bing，微软使用 OpenAI 提供的联网 AI，使用微软账号登陆。 | <img src="./images/Newbing.png" alt="NewBing" style="zoom:25%;" /> |
+| Gemini     | ![geminiqcode](./images/geminiqcode.png)<br />https://gemini.google.com/ | Google提供的AI工具。通过Google账号登录后，即可使用。        | <img src="./images/Gemini.png" alt="Gemini" style="zoom:25%;" /> |
 
 ## 三、基本使用示例
 列举一些常见的预设问题，帮助用户快速入门使用AI工具。
@@ -92,10 +92,10 @@
 
 | 平台                  | 标题                                                         | 网址                                                         |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| OpenAI (ChatGPT)      | Prompt engineering -<br />Six strategies for getting better results | ![openai6strqcode](.\images\openai6strqcode.png)<br />https://platform.openai.com/docs/guides/prompt-engineering |
-| Kimi                  | Prompt 最佳实践                                              | ![kimipromptqcode](.\images\kimipromptqcode.png)<br />https://platform.moonshot.cn/docs/guide/prompt-best-practice |
-| 火山方舟大模型 (豆包) | Prompt 最佳实践                                              | ![doubaopromptqcode](.\images\doubaopromptqcode.png)<br />https://www.volcengine.com/docs/82379/1221660 |
-| 文心一言              | 3分钟学会写文心一言指令                                      | ![yiyanlearn](.\images\yiyanlearn.png)<br />https://yiyan.baidu.com/learn |
+| OpenAI (ChatGPT)      | Prompt engineering -<br />Six strategies for getting better results | ![openai6strqcode](./images/openai6strqcode.png)<br />https://platform.openai.com/docs/guides/prompt-engineering |
+| Kimi                  | Prompt 最佳实践                                              | ![kimipromptqcode](./images/kimipromptqcode.png)<br />https://platform.moonshot.cn/docs/guide/prompt-best-practice |
+| 火山方舟大模型 (豆包) | Prompt 最佳实践                                              | ![doubaopromptqcode](./images/doubaopromptqcode.png)<br />https://www.volcengine.com/docs/82379/1221660 |
+| 文心一言              | 3分钟学会写文心一言指令                                      | ![yiyanlearn](./images/yiyanlearn.png)<br />https://yiyan.baidu.com/learn |
 
 ### 【4-1】 以 OpenAI 的文档 “获得更好结果的 6 种策略” 说明
 
@@ -226,7 +226,7 @@
 >
 > 剩余的内容未整理，请到网站上继续阅读：
 >
-> ![openai6strqcode](.\images\openai6strqcode.png)
+> ![openai6strqcode](./images/openai6strqcode.png)
 >
 > https://platform.openai.com/docs/guides/prompt-engineering
 
