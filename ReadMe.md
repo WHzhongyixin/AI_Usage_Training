@@ -734,6 +734,11 @@ AI可以帮助解答数控系统相关的常见问题。
 
 ## 七、AI的基础实现
 ### 机器学习的Hello World
+
+https://tensorflow.google.cn/tutorials/keras/classification?hl=zh-cn
+
+![tensorflow](./images/tensorflow.png)
+
 通过一个简单的TensorFlow工程，展示机器学习的基本流程。
 
 1. **下载并安装TensorFlow**
