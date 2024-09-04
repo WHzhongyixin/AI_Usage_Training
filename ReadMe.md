@@ -42,6 +42,8 @@
 | Gemini     | ![geminiqcode](./images/geminiqcode.png)<br />https://gemini.google.com/ | Google提供的AI工具。通过Google账号登录后，即可使用。        | <img src="./images/Gemini.png" alt="Gemini" style="zoom:25%;" /> |
 
 ## 三、基本使用示例
+<img src=".\images\yiyanapp.png" alt="yiyanapp" style="zoom:7%;" />
+
 列举一些常见的预设问题，帮助用户快速入门使用AI工具。
 
 ### 【3-1】 **搜索引擎**：如何做一道家常菜？
@@ -773,31 +775,34 @@ AI可以帮助解答数控系统相关的常见问题。
 
   * 【深度学习之神经网络的结构 Part 1】
 
+    https://b23.tv/NhyWasR
+
     ![3b1b-1](./images/3b1b-1.png)
 
-    https://b23.tv/NhyWasR
+    
 
   * 【GPT是什么？直观解释Transformer | 深度学习第5章】
 
-    ![3b1b-2](./images/3b1b-2.png)
+    https://b23.tv/zZgLChS
 
-     https://b23.tv/zZgLChS
+    ![3b1b-2](./images/3b1b-2.png)
+    
 
 * 本地部署 AI 绘图
 
   * 【合集·B站第一套Stable Diffusion系统课程，来了！】
 
-    ![aigenerapic](./images/aigenerapic.png)
-
     https://b23.tv/4YN2UYv
+
+    ![aigenerapic](./images/aigenerapic.png)
 
 * 本地部署 GLM
 
   * 【GLM-4-9B 开源，探索模型极限】
 
-    ![localgpt](./images/localgpt.png)
-
     https://b23.tv/diQEZZu
+
+    ![localgpt](./images/localgpt.png)
 
 
 
@@ -806,3 +811,19 @@ AI可以帮助解答数控系统相关的常见问题。
 感谢大家的参与，希望本次培训能帮助你们更好地使用AI工具，提高工作效率。
 
 如果有任何问题，欢迎随时提问。
+
+
+
+> 文档也放到了 Gitee 和 Github 上
+>
+> * Gitee
+>
+>   https://gitee.com/weihongzyx/AI_Usage_Training
+>
+>   ![gitee](./images/gitee.png)
+>
+> * Github
+>
+>   https://github.com/WHzhongyixin/AI_Usage_Training
+>
+>   ![github](./images/github.png)
